@@ -1,0 +1,4 @@
+name: practica_02_dart
+description: Solución de la práctica 02 de tipos de datos en Dart.
+environment:
+  sdk: ">=3.0.0 <4.0.0"

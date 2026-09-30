@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "practica_02_dart"
+  ],
+  "packages": [
+    {
+      "name": "practica_02_dart",
+      "version": "0.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

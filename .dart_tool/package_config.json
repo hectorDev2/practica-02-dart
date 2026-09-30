@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "practica_02_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.4",
+  "flutterRoot": "file:///opt/homebrew/share/flutter",
+  "flutterVersion": "3.47.5",
+  "pubCache": "file:///private/tmp/dart-home/.pub-cache"
+}
