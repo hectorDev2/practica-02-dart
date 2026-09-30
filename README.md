@@ -12,8 +12,7 @@ dart run bin/main.dart
 dart run test/guide02_test.dart
 ```
 
-También se puede copiar `bin/main.dart` en [DartPad](https://dartpad.dev/) y
-ejecutarlo con Dart 3.x.
+Enlace directo verificable en [DartPad](https://dartpad.dev/?id=40f1337e98900f5eb381175cdfb21fd6&run=true).
 
 ## Ejercicios resueltos
 
@@ -24,3 +23,5 @@ ejecutarlo con Dart 3.x.
 ## Evidencia
 
 El informe y la captura de ejecución están en [`informe/`](informe/).
+
+Repositorio: <https://github.com/hectorDev2/practica-02-dart>

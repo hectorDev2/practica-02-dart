@@ -48,8 +48,8 @@ La captura muestra la salida reproducible de la ejecución de `bin/main.dart`:
 
 ## 5. Enlaces de entrega
 
-- Repositorio GitHub: **pendiente de publicación/autenticación de GitHub**.
-- DartPad: **pendiente de publicar el Gist asociado**.
+- Repositorio GitHub: <https://github.com/hectorDev2/practica-02-dart>
+- DartPad: <https://dartpad.dev/?id=40f1337e98900f5eb381175cdfb21fd6&run=true>
 
 El código fuente que debe copiarse en DartPad está en
 [`../bin/main.dart`](../bin/main.dart).
