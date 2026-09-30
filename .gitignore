@@ -5,3 +5,7 @@ build/
 *.iml
 .idea/
 .DS_Store
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/missfont.log
